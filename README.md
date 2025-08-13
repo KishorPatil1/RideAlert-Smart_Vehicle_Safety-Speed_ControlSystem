@@ -178,16 +178,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Testing**: Thoroughly test all components before deployment
 - **Compliance**: Ensure compliance with local traffic and safety regulations
 
-## 📞 Contact
 
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- Geoapify for speed limit API
-- GoMaps for hospital data API
-- Google for Maps API
-- Arduino and STM32 communities
-- Open source contributors
