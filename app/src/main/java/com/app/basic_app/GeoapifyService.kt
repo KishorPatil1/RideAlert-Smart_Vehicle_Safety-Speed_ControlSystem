@@ -7,7 +7,7 @@ import org.json.JSONObject
 import java.net.URL
 
 class GeoapifyService {
-    private val apiKey = "9031fce32db743b1a426d7ef72277f66"
+    private val apiKey = "API-KEY"
 
     suspend fun getSpeedLimit(point: LatLng): Int? = withContext(Dispatchers.IO) {
         try {
